@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Host: https://rjrenova.codewords.run
+Sitemap: https://rjrenova.codewords.run/sitemap.xml
